@@ -9,7 +9,7 @@ public class BasicCandle implements Candle {
     private double open;
     private double close;
     private double volume;
-    private Date time;
+    private Date date;
 
     public BasicCandle(double high, double low, double open, double close, double volume, Date date) {
         this.high = high;
@@ -17,7 +17,7 @@ public class BasicCandle implements Candle {
         this.open = open;
         this.close = close;
         this.volume = volume;
-        this.time = date;
+        this.date = date;
     }
 
 
@@ -49,12 +49,13 @@ public class BasicCandle implements Candle {
     public void setVolume(double volume) {
         this.volume = volume;
     }
-    public Date getTime() {
-        return time;
+    public Date getDate() {
+        return date;
     }
 
+
     public void setTime(Date time) {
-        this.time = time;
+        this.date = time;
     }
     public double getHigh() {
         return high;

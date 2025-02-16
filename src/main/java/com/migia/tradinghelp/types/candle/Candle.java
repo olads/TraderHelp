@@ -15,7 +15,7 @@ public interface Candle extends BasicType {
     public double getOpen();
     public double getClose();
     public double getVolume();
-    public Date getTime();
+    public Date getDate();
 
 
 
