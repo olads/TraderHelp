@@ -1,3 +1,4 @@
+/workspaces/TraderHelp/src/main/java/com/migia/rest/TestController.java
 /workspaces/TraderHelp/src/main/java/com/migia/tradinghelp/validator/Evaluatable.java
 /workspaces/TraderHelp/src/main/java/com/migia/tradinghelp/indicator/Indicator.java
 /workspaces/TraderHelp/src/main/java/com/migia/tradinghelp/structure/Structure.java
@@ -16,3 +17,4 @@
 /workspaces/TraderHelp/src/main/java/com/migia/tradinghelp/types/series/MultivariateSeries.java
 /workspaces/TraderHelp/src/main/java/com/migia/rest/DataCollector.java
 /workspaces/TraderHelp/src/main/java/com/migia/tradinghelp/types/BasicType.java
+/workspaces/TraderHelp/src/main/java/com/migia/rest/GetDataFromAnotherService.java

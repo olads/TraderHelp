@@ -4,11 +4,13 @@ com/migia/tradinghelp/types/candle/Candle$CandleTypes.class
 com/migia/tradinghelp/types/series/SimpleSeries.class
 com/migia/tradinghelp/validator/Evaluatable.class
 com/migia/tradinghelp/structure/TrendLine.class
+com/migia/rest/GetDataFromAnotherService.class
 com/migia/rest/CandleStick.class
 com/migia/tradinghelp/structure/implementations/Low.class
 com/migia/tradinghelp/types/candle/Candle.class
 com/migia/tradinghelp/types/BasicType.class
 com/migia/tradinghelp/structure/implementations/Bullish.class
+com/migia/rest/TestController.class
 com/migia/tradinghelp/structure/implementations/High.class
 com/migia/tradinghelp/structure/implementations/SimpleTrendLine.class
 com/migia/tradinghelp/types/series/UnivariateSeries.class
